@@ -2,8 +2,6 @@
 
 Slides etc for "Among Us: They're in the Open Source Supply Chain" as presented at BSides Nashville, 2026-05-15.
 
-Video recording will be linked here when available.
-
 The PDF in this repo will download but if you try to view it in-browser you may get some weird "Unable to render code block" error from GitHub. 🤷‍♂️
 
 If it really is messed up I will also have the slides in my personal domain: https://novarese.net/talks/
